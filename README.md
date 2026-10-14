@@ -110,18 +110,16 @@
 <!-- Cambia NOMBRE_REPO por repos tuyos. Añade o quita tarjetas. -->
 <p align="center">
   <a href="https://github.com/IamYisuSB/pixelote">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamYisuSB&repo=pixelote&theme=radical&hide_border=true" alt="Proyecto 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamYisuSB&repo=pixelote&theme=radical&hide_border=true" alt="Proyecto 1"/>
   </a>
   <a href="https://github.com/IamYisuSB/climeo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamYisuSB&repo=climeo&theme=radical&hide_border=true" alt="Proyecto 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamYisuSB&repo=climeo&theme=radical&hide_border=true" alt="Proyecto 2"/>
   </a>
     <a href="https://github.com/IamYisuSB/kipack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamYisuSB&repo=kipack&theme=radical&hide_border=true" alt="Proyecto 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamYisuSB&repo=kipack&theme=radical&hide_border=true" alt="Proyecto 3" />
   </a>
-    </a>
     <a href="https://github.com/IamYisuSB/kipack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamYisuSB&repo=portfolio-jesus-guerrero&theme=radical&hide_border=true" alt="Proyecto 2" />
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamYisuSB&repo=portfolio-jesus-guerrero&theme=radical&hide_border=true" alt="Proyecto 4" /></a>
 </p>
 
 ---
