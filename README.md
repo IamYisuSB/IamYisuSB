@@ -98,6 +98,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=IamYisuSB&theme=radical&hide_border=true&locale=es" alt="Racha de contribuciones" />
+  
 </p>
 
 ---
@@ -116,6 +117,10 @@
   </a>
     <a href="https://github.com/IamYisuSB/kipack">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamYisuSB&repo=kipack&theme=radical&hide_border=true" alt="Proyecto 2" />
+  </a>
+    </a>
+    <a href="https://github.com/IamYisuSB/kipack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamYisuSB&repo=portfolio-jesus-guerrero&theme=radical&hide_border=true" alt="Proyecto 2" />
   </a>
 </p>
 
