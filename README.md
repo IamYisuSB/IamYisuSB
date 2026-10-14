@@ -112,7 +112,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamYisuSB&repo=pixelote&theme=radical&hide_border=true" alt="Proyecto 1" />
   </a>
   <a href="https://github.com/TU_USUARIO/NOMBRE_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO_2&theme=react&hide_border=true" alt="Proyecto 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamYisuSBSUARIO&repo=climeo&theme=radical&hide_border=true" alt="Proyecto 2" />
   </a>
 </p>
 
