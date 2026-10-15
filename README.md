@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/IamYisuSBtab=followers"><img src="https://img.shields.io/github/followers/TU_USUARIO?style=social&label=Seguir" alt="Seguidores" /></a>
+  <a href="https://github.com/IamYisuSBtab=followers"><img src="https://img.shields.io/github/followers/IamYisuSB?style=social&label=Seguir" alt="Seguidores" /></a>
 </p>
 
 ---
@@ -177,7 +177,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/IamYisuSBtab=followers"><img src="https://img.shields.io/github/followers/TU_USUARIO?style=social&label=Follow" alt="Followers" /></a>
+  <a href="https://github.com/IamYisuSBtab=followers"><img src="https://img.shields.io/github/followers/IamYisuSB?style=social&label=Follow" alt="Followers" /></a>
 </p>
 
 ---
