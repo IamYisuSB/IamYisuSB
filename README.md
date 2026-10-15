@@ -45,6 +45,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jesusdavid03/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:jesusgs@ik.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title=jesusgs@ik.me/></a>
+  <a href="https://ko-fi.com/iamyisusfooserd"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Invítame a un Ko-fi" /></a>
   <!-- OPCIONAL: portfolio -->
   <a href="https://jesusgs.es"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
 </p>
