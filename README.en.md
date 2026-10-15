@@ -1,4 +1,4 @@
-[🇪🇸 Español](README.md) | 🇬🇧 English
+[🇪🇸 Español](https://github.com/IamYisuSB) | 🇬🇧 English
 
 <!-- ═══════════════ 1. HEADER ═══════════════ -->
 
