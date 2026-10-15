@@ -22,7 +22,7 @@
 <!-- OPCIONAL: tu foto. Súbela a una carpeta Images/ del repo con ese nombre,
      o borra este bloque. -->
 <p align="center">
-  <img src="img/avatar-github.webp" alt="IamYisuSB" width="140" />
+  <img src="img/banner.webp" alt="IamYisuSB" width="600" />
 </p>
 
 <!-- Texto animado. Para cambiar frases, fuente o color, genera la URL en:
