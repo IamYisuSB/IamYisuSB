@@ -78,7 +78,7 @@ Hi! I'm **Jesús Guerrero**, a freelance web developer from **Granada, Spain**. 
     <a href="https://github.com/IamYisuSB/kipack">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamYisuSB&repo=kipack&theme=radical&hide_border=true" alt="Project 3" />
   </a>
-    <a href="https://github.com/IamYisuSB/kipack">
+    <a href="https://github.com/IamYisuSB/portfolio-jesus-guerrero">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamYisuSB&repo=portfolio-jesus-guerrero&theme=radical&hide_border=true" alt="Project 4" /></a>
 </p>
 
