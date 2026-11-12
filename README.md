@@ -88,14 +88,13 @@
 <!-- ═══════════════ 5. ESTADÍSTICAS ═══════════════ -->
 ### 📊 Estadísticas de GitHub
 
-<!-- Temas disponibles: dark, radical, tokyonight, react, dracula, gruvbox,
-     onedark, github_dark, transparent...
-     Cambia "theme=react" en las TRES imágenes para que combinen.
-     Nota: la instancia pública de github-readme-stats a veces no carga por
-     límites de uso; si te pasa a menudo, se puede desplegar una propia. -->
+<!-- Las tarjetas de estadísticas y proyectos las genera una vez al día el workflow
+     .github/workflows/update-cards.yml y las guarda en la carpeta profile/.
+     Para cambiar tema, opciones o repos destacados, edita ese archivo.
+     (La racha sigue viniendo de streak-stats.demolab.com.) -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IamYisuSB&theme=radical&show_icons=true&hide_border=true&count_private=true&locale=es" alt="Estadísticas" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamYisuSB&theme=radical&layout=compact&hide_border=true&langs_count=6&locale=es" alt="Lenguajes más usados" />
+  <img height="165" src="profile/stats.svg" alt="Estadísticas" />
+  <img height="165" src="profile/top-langs.svg" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
@@ -112,16 +111,16 @@
 <!-- Cambia NOMBRE_REPO por repos tuyos. Añade o quita tarjetas. -->
 <p align="center">
   <a href="https://github.com/IamYisuSB/pixelote">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamYisuSB&repo=pixelote&theme=radical&hide_border=true" alt="Proyecto 1"/>
+    <img src="profile/pin-pixelote.svg" alt="Proyecto 1"/>
   </a>
   <a href="https://github.com/IamYisuSB/climeo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamYisuSB&repo=climeo&theme=radical&hide_border=true" alt="Proyecto 2"/>
+    <img src="profile/pin-climeo.svg" alt="Proyecto 2"/>
   </a>
     <a href="https://github.com/IamYisuSB/kipack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamYisuSB&repo=kipack&theme=radical&hide_border=true" alt="Proyecto 3" />
+    <img src="profile/pin-kipack.svg" alt="Proyecto 3" />
   </a>
     <a href="https://github.com/IamYisuSB/portfolio-jesus-guerrero">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamYisuSB&repo=portfolio-jesus-guerrero&theme=radical&hide_border=true" alt="Proyecto 4" /></a>
+    <img src="profile/pin-portfolio-jesus-guerrero.svg" alt="Proyecto 4" /></a>
 </p>
 
 ---
