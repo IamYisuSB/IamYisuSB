@@ -31,6 +31,22 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Tarjeta de estadisticas (ingles)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&theme=radical&show_icons=true&hide_border=true
+          path: profile/stats-en.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Tarjeta de lenguajes (ingles)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&theme=radical&layout=compact&hide_border=true&langs_count=6
+          path: profile/top-langs-en.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Proyecto pixelote
         uses: stats-organization/github-readme-stats-action@v2
         with:
