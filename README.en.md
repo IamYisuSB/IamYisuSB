@@ -70,16 +70,16 @@ Hi! I'm **Jesús Guerrero**, a freelance web developer from **Granada, Spain**. 
 
 <p align="center">
   <a href="https://github.com/IamYisuSB/pixelote">
-    <img src="profile/pin-pixelote.svg" alt="Project 1"/>
+    <img width="48%" src="profile/pin-pixelote.svg" alt="Project 1"/>
   </a>
   <a href="https://github.com/IamYisuSB/climeo">
-    <img src="profile/pin-climeo.svg" alt="Project 2"/>
+    <img width="48%" src="profile/pin-climeo.svg" alt="Project 2"/>
   </a>
     <a href="https://github.com/IamYisuSB/kipack">
-    <img src="profile/pin-kipack.svg" alt="Project 3" />
+    <img width="48%" src="profile/pin-kipack.svg" alt="Project 3" />
   </a>
     <a href="https://github.com/IamYisuSB/portfolio-jesus-guerrero">
-    <img src="profile/pin-portfolio-jesus-guerrero.svg" alt="Project 4" /></a>
+    <img width="48%" src="profile/pin-portfolio-jesus-guerrero.svg" alt="Project 4" /></a>
 </p>
 
 ---
