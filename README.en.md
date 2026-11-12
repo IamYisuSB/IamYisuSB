@@ -55,8 +55,8 @@ Hi! I'm **Jesús Guerrero**, a freelance web developer from **Granada, Spain**. 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IamYisuSB&theme=radical&show_icons=true&hide_border=true&count_private=true&locale=en" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamYisuSB&theme=radical&layout=compact&hide_border=true&langs_count=6&locale=en" alt="Top languages" />
+  <img height="165" src="profile/stats-en.svg" alt="GitHub stats" />
+  <img height="165" src="profile/top-langs-en.svg" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -70,16 +70,16 @@ Hi! I'm **Jesús Guerrero**, a freelance web developer from **Granada, Spain**. 
 
 <p align="center">
   <a href="https://github.com/IamYisuSB/pixelote">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamYisuSB&repo=pixelote&theme=radical&hide_border=true" alt="Project 1"/>
+    <img src="profile/pin-pixelote.svg" alt="Project 1"/>
   </a>
   <a href="https://github.com/IamYisuSB/climeo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamYisuSB&repo=climeo&theme=radical&hide_border=true" alt="Project 2"/>
+    <img src="profile/pin-climeo.svg" alt="Project 2"/>
   </a>
     <a href="https://github.com/IamYisuSB/kipack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamYisuSB&repo=kipack&theme=radical&hide_border=true" alt="Project 3" />
+    <img src="profile/pin-kipack.svg" alt="Project 3" />
   </a>
     <a href="https://github.com/IamYisuSB/portfolio-jesus-guerrero">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamYisuSB&repo=portfolio-jesus-guerrero&theme=radical&hide_border=true" alt="Project 4" /></a>
+    <img src="profile/pin-portfolio-jesus-guerrero.svg" alt="Project 4" /></a>
 </p>
 
 ---
