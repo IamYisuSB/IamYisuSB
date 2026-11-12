@@ -111,16 +111,16 @@
 <!-- Cambia NOMBRE_REPO por repos tuyos. Añade o quita tarjetas. -->
 <p align="center">
   <a href="https://github.com/IamYisuSB/pixelote">
-    <img src="profile/pin-pixelote.svg" alt="Proyecto 1"/>
+    <img width="48%" src="profile/pin-pixelote.svg" alt="Proyecto 1"/>
   </a>
   <a href="https://github.com/IamYisuSB/climeo">
-    <img src="profile/pin-climeo.svg" alt="Proyecto 2"/>
+    <img width="48%" src="profile/pin-climeo.svg" alt="Proyecto 2"/>
   </a>
     <a href="https://github.com/IamYisuSB/kipack">
-    <img src="profile/pin-kipack.svg" alt="Proyecto 3" />
+    <img width="48%" src="profile/pin-kipack.svg" alt="Proyecto 3" />
   </a>
     <a href="https://github.com/IamYisuSB/portfolio-jesus-guerrero">
-    <img src="profile/pin-portfolio-jesus-guerrero.svg" alt="Proyecto 4" /></a>
+    <img width="48%" src="profile/pin-portfolio-jesus-guerrero.svg" alt="Proyecto 4" /></a>
 </p>
 
 ---
