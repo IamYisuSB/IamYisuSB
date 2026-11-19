@@ -46,7 +46,7 @@ Hi! I'm **Jesús Guerrero**, a freelance web developer from **Granada, Spain**. 
 ### 🧰 Technologies and tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,mysql,git,github,wordpress,cloudflare,vscode&perline=8" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,mysql,php,git,github,wordpress,cloudflare,vscode&perline=8" alt="Technologies" />
 </p>
 
 ---
