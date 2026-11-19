@@ -79,7 +79,7 @@
      Nombres disponibles: https://skillicons.dev  (ej.: python, react, spring,
      docker, nodejs, ts, php, laravel, postgres, mongodb, figma, linux...) -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,mysql,git,github,wordpress,cloudflare,vscode&perline=8" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,mysql,php,git,github,wordpress,cloudflare,vscode&perline=8" alt="Tecnologías" />
 </p>
 
 ---
